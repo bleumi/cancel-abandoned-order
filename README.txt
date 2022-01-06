@@ -5,7 +5,7 @@ Tags: payment-gateway, payment-processing, woocommerce-plugin, accept-crypto-pay
 Requires at least: 5.4
 Tested up to: 5.8.2
 Requires PHP: 7.0
-Stable tag: 1.0.7
+Stable tag: 1.0.0
 License: MIT
 License URI: https://github.com/bleumi/cancel-abandoned-order/blob/master/LICENSE
 
