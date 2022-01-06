@@ -1,4 +1,4 @@
-# Bleumi for WooCommerce Cancel Abandoned Order
+# Bleumi Payments for Cancel Abandoned Order
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/bleumi/cancel-abandoned-order/master/LICENSE)
 
