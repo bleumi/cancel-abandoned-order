@@ -13,11 +13,7 @@ Accept Traditional and Crypto Currency Payments in your WooCommerce store.
 
 == Description ==
 
-# Bleumi for WooCommerce
-
-Bleumi is an all-in-one global Payment Orchestration Platform. With this extension, customers can accept Traditional (PayPal, Credit/Debit Card) or Crypto Currency (USD Coin, Tether, Monerium) payments in your Woocommerce Store.
-
-This plugin adds Bleumi Payments for WooCommece (https://wordpress.org/plugins/bleumi-payments-for-woocommerce/) as a supported payment gateway in the WooCommerce Cancel Abandoned Order (https://wordpress.org/plugins/woo-cancel-abandoned-order/) plugin.
+Bleumi is an all-in-one global Payment Orchestration Platform. This plugin adds Bleumi Payments for WooCommece (https://wordpress.org/plugins/bleumi-payments-for-woocommerce/) as a supported payment gateway in the WooCommerce Cancel Abandoned Order (https://wordpress.org/plugins/woo-cancel-abandoned-order/) plugin.
 
 ## Installation
 
